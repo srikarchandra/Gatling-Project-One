@@ -1,0 +1,4 @@
+RUN	com.gatling.tests.ComputerDatabase	computerdatabase	1722288615858	Test Run 1	3.6.1
+USER	ComputerDatabase	START	1722288616350
+REQUEST		ComputerDatabasePage	1722288616357	1722288616629	OK	 
+USER	ComputerDatabase	END	1722288616653
